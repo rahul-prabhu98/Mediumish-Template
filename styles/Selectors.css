@@ -1,0 +1,82 @@
+.webpage{
+    max-width: 1150px ;
+    margin: 25px auto auto;
+}
+
+
+
+hr{
+    width: 10%;
+    border-top: 1.5px solid black;
+    margin-left: 0px;
+    display: inline-flex;
+}
+hr.grey{
+    width: 89%;
+    border-top: 1.5px solid lightgrey;
+    margin-left: 0px;
+    display: inline-flex;
+    co
+}
+
+div.block{
+    display: inline-block;
+    border: 2px solid lightgrey;
+    width: 300px;
+    max-height: 300px;
+    max-width: 300px;
+    margin: auto;
+    height: 300px;
+    padding: 5px;
+    font-family: "Arial Narrow";
+    color: darkgrey;
+    font-size: 21px;
+    vertical-align: top;
+    border-radius: 7px;
+    word-spacing: 3px;
+    padding: 25px;
+    position: relative;
+
+}
+
+div.block:hover{
+    border: 2px solid black;
+}
+
+.bookmarkicon{
+    width: 30px;
+    height: 30px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: white;
+    font-family: "Arial Black";
+    font-size: 22px;
+    font-weight: bold;
+    display: block;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid lightgrey;
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid black;
+}
+
+.topnav a.active {
+    border-bottom: 3px solid black;
+}
+
+.topnav a.lastbutton {
+    border-bottom: 3px solid lightgrey;
+    width: 86%;
+}

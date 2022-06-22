@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'righteousregular';
+    font-size: 37px;
+    margin: 1px;
+}
+
+.title{
+    font-family: "Arial Black";
+    font-size: 22px;
+    font-weight: bold;
+    margin: 1px;
+}
+
+h3 {
+    font-family: "Arial Narrow";
+    font-size: 22px;
+    margin : 1px;
+    font-style: normal;
+    font-weight: normal;
+    word-spacing: 8px;
+}
+
+div h4{
+    font-family: "Arial Black";
+    font-size: 20px;
+    color: black;
+    margin-top: 0px;
+}
+
+.bottomdate{
+    font-family: Calibri;
+    font-size: 18px;
+    bottom: 0px;
+    position: absolute;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
