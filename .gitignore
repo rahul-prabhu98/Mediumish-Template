@@ -1,2 +1,5 @@
 #Ignore Uploading of LinkFile
 LinkFile.txt
+
+#Remove Folder .idea
+/.idea/
