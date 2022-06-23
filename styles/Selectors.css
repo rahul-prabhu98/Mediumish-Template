@@ -1,10 +1,11 @@
+/*Limiting webpage to maximum of 1150 px*/
 .webpage{
     max-width: 1150px ;
     margin: 25px auto auto;
 }
 
 
-
+/*Horizontal Line styling*/
 hr{
     width: 10%;
     border-top: 1.5px solid black;
@@ -18,7 +19,7 @@ hr.grey{
     display: inline-flex;
     co
 }
-
+/*Block styling*/
 div.block{
     display: inline-block;
     border: 2px solid lightgrey;
@@ -42,12 +43,12 @@ div.block{
 div.block:hover{
     border: 2px solid black;
 }
-
+/*Bookmark icon styling*/
 .bookmarkicon{
     width: 30px;
     height: 30px;
 }
-
+/*Navigation bar styling*/
 .topnav {
     overflow: hidden;
     background-color: white;

@@ -3,3 +3,6 @@ LinkFile.txt
 
 #Remove Folder .idea
 /.idea/
+
+#Remove .log folder
+.log

@@ -1,16 +1,17 @@
+/*All typography styling done here*/
 h1 {
     font-family: 'righteousregular';
     font-size: 37px;
     margin: 1px;
 }
-
+/*Title styling */
 .title{
     font-family: "Arial Black";
     font-size: 22px;
     font-weight: bold;
     margin: 1px;
 }
-
+/*Header styling*/
 h3 {
     font-family: "Arial Narrow";
     font-size: 22px;
@@ -19,14 +20,14 @@ h3 {
     font-weight: normal;
     word-spacing: 8px;
 }
-
+/*Divisional Header styles*/
 div h4{
     font-family: "Arial Black";
     font-size: 20px;
     color: black;
     margin-top: 0px;
 }
-
+/*Post date style*/
 .bottomdate{
     font-family: Calibri;
     font-size: 18px;
